@@ -1,0 +1,2 @@
+# node_modules は容量が大きいから除外
+node_modules/

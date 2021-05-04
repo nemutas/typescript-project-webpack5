@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello, TypeScript"),console.log("こんばんは！"),console.log("Hello! Nemutas！")})();
